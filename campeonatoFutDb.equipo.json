@@ -1,0 +1,346 @@
+[{
+  "_id": {
+    "$oid": "663efd509de06089f1989559"
+  },
+  "nombre": "Nacional",
+  "escudo": "img",
+  "jugador_id": [
+    {
+      "identificacion": 1003031732,
+      "nombres": "Julian Franco",
+      "edad": 19
+    },
+    {
+      "identificacion": 1054031762,
+      "nombres": "Eduar Hidalgo",
+      "edad": 18
+    },
+    {
+      "identificacion": 1543031764,
+      "nombres": "Julio Tombe",
+      "edad": 20
+    },
+    {
+      "identificacion": 1001571765,
+      "nombres": "Fabian Guetio",
+      "edad": 18
+    },
+    {
+      "identificacion": 1108781765,
+      "nombres": "Manuel Ulcue",
+      "edad": 20
+    },
+    {
+      "identificacion": 1063981165,
+      "nombres": "Mario Luligo",
+      "edad": 18
+    },
+    {
+      "identificacion": 1083949765,
+      "nombres": "Harrizon Losano",
+      "edad": 19
+    },
+    {
+      "identificacion": 1903034765,
+      "nombres": "Duban Hibarra",
+      "edad": 18
+    },
+    {
+      "identificacion": 1503038765,
+      "nombres": "Andres Tarapues",
+      "edad": 19
+    },
+    {
+      "identificacion": 1332334765,
+      "nombres": "Davin Ruiz",
+      "edad": 19
+    },
+    {
+      "identificacion": 1703032765,
+      "nombres": "Jose Martines",
+      "edad": 19
+    },
+    {
+      "identificacion": 1293035765,
+      "nombres": "Fabian Golondriono",
+      "edad": 18
+    },
+    {
+      "identificacion": 1506224765,
+      "nombres": "Jeferson Ceron",
+      "edad": 19
+    },
+    {
+      "identificacion": 1036234765,
+      "nombres": "Edgar Aguilar",
+      "edad": 19
+    },
+    {
+      "identificacion": {
+        "$numberLong": "17060234765"
+      },
+      "nombres": "Dilver Ortiz",
+      "edad": 19
+    }
+  ],
+  "entrenador": "Dilan Narvaez"
+},
+{
+  "_id": {
+    "$oid": "663efd6b9de06089f198955b"
+  },
+  "nombre": "Barcelona",
+  "escudo": "img",
+  "jugador_id": [
+    {
+      "identificacion": 1003031765,
+      "nombres": "Felipe Rivera",
+      "edad": 19
+    },
+    {
+      "identificacion": 1003031762,
+      "nombres": "Andres Cortez",
+      "edad": 18
+    },
+    {
+      "identificacion": 1003031764,
+      "nombres": "Juan Carvajal",
+      "edad": 20
+    },
+    {
+      "identificacion": 1001731765,
+      "nombres": "Pedro Sanchez",
+      "edad": 18
+    },
+    {
+      "identificacion": 1103081765,
+      "nombres": "Esteban Urrutia",
+      "edad": 20
+    },
+    {
+      "identificacion": 1063031165,
+      "nombres": "Adrian Ceron",
+      "edad": 18
+    },
+    {
+      "identificacion": 1083931765,
+      "nombres": "Anderson Guaza",
+      "edad": 19
+    },
+    {
+      "identificacion": 1903034765,
+      "nombres": "Matias Perez",
+      "edad": 18
+    },
+    {
+      "identificacion": 1503044765,
+      "nombres": "Edwin Perez",
+      "edad": 19
+    },
+    {
+      "identificacion": 1333034765,
+      "nombres": "Diego Vivero",
+      "edad": 19
+    },
+    {
+      "identificacion": 1703036765,
+      "nombres": "Pablo Ruiz",
+      "edad": 19
+    },
+    {
+      "identificacion": 1903035765,
+      "nombres": "Rigo Hidrobo",
+      "edad": 18
+    },
+    {
+      "identificacion": 1506034765,
+      "nombres": "Edwin Perez",
+      "edad": 19
+    },
+    {
+      "identificacion": 1036034765,
+      "nombres": "Fernando Aguilar",
+      "edad": 19
+    },
+    {
+      "identificacion": 1706034765,
+      "nombres": "Sebastian Ortiz",
+      "edad": 19
+    }
+  ],
+  "entrenador": "Julio Narvaez"
+},
+{
+  "_id": {
+    "$oid": "663fd0d664c6d330ebfc0c98"
+  },
+  "nombre": "Millonarios",
+  "escudo": "img",
+  "jugador_id": [
+    {
+      "identificacion": 1003041765,
+      "nombres": "Carlos Ceron",
+      "edad": 20
+    },
+    {
+      "identificacion": 1006031762,
+      "nombres": "Andres Rivera",
+      "edad": 19
+    },
+    {
+      "identificacion": 1003023764,
+      "nombres": "Jesus Carvajal",
+      "edad": 20
+    },
+    {
+      "identificacion": 1871731765,
+      "nombres": "Adrian Sanchez",
+      "edad": 18
+    },
+    {
+      "identificacion": 1133081765,
+      "nombres": "Pedro Urrutia",
+      "edad": 20
+    },
+    {
+      "identificacion": 1021031165,
+      "nombres": "abadio Ceron",
+      "edad": 10
+    },
+    {
+      "identificacion": 1983931765,
+      "nombres": "Jaider Guaza",
+      "edad": 19
+    },
+    {
+      "identificacion": 1905034765,
+      "nombres": "Gerardo Perez",
+      "edad": 18
+    },
+    {
+      "identificacion": 1521044765,
+      "nombres": "Edwin Perez",
+      "edad": 19
+    },
+    {
+      "identificacion": 1333034765,
+      "nombres": "Sebas Vivero",
+      "edad": 19
+    },
+    {
+      "identificacion": 1703230765,
+      "nombres": "Javier Ruiz",
+      "edad": 20
+    },
+    {
+      "identificacion": 1083835765,
+      "nombres": "Daniel Hidrobo",
+      "edad": 18
+    },
+    {
+      "identificacion": 1506934765,
+      "nombres": "Duban Perez",
+      "edad": 19
+    },
+    {
+      "identificacion": {
+        "$numberLong": "10360322765"
+      },
+      "nombres": "Jorge Aguilar",
+      "edad": 19
+    },
+    {
+      "identificacion": 1716034765,
+      "nombres": "Wilfer Ortiz",
+      "edad": 19
+    }
+  ],
+  "entrenador": "Rigo Anacona"
+},
+{
+  "_id": {
+    "$oid": "663fd0fa64c6d330ebfc0c9a"
+  },
+  "nombre": "America",
+  "escudo": "img",
+  "jugador_id": [
+    {
+      "identificacion": 1003041765,
+      "nombres": "Alvaro Ceron",
+      "edad": 18
+    },
+    {
+      "identificacion": 1006031862,
+      "nombres": "Angel Caso",
+      "edad": 19
+    },
+    {
+      "identificacion": 1073023764,
+      "nombres": "Jesus MolIna",
+      "edad": 20
+    },
+    {
+      "identificacion": 1871731765,
+      "nombres": "Adrian Quilindo",
+      "edad": 18
+    },
+    {
+      "identificacion": 1138081765,
+      "nombres": "Pedro Narvaez",
+      "edad": 20
+    },
+    {
+      "identificacion": 1021051165,
+      "nombres": "Melco Ceron",
+      "edad": 10
+    },
+    {
+      "identificacion": 1977934165,
+      "nombres": "Tomas Guaza",
+      "edad": 19
+    },
+    {
+      "identificacion": 1905031265,
+      "nombres": "Jhon Perez",
+      "edad": 18
+    },
+    {
+      "identificacion": 1521043765,
+      "nombres": "Alexander Conejo",
+      "edad": 19
+    },
+    {
+      "identificacion": 1333034765,
+      "nombres": "Alejandro Vivero",
+      "edad": 19
+    },
+    {
+      "identificacion": 1703230765,
+      "nombres": "Javier Santos",
+      "edad": 20
+    },
+    {
+      "identificacion": 1083835765,
+      "nombres": "Romeo Hidrobo",
+      "edad": 18
+    },
+    {
+      "identificacion": 1506234765,
+      "nombres": "Duban Galindez",
+      "edad": 19
+    },
+    {
+      "identificacion": {
+        "$numberLong": "10322322765"
+      },
+      "nombres": "Jhobani Ulcue",
+      "edad": 19
+    },
+    {
+      "identificacion": 1716034765,
+      "nombres": "Anderson Tarapuez",
+      "edad": 19
+    }
+  ],
+  "entrenador": "Ari Rengifo"
+}]

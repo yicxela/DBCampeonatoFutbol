@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "663f09399de06089f1989569"
+  },
+  "juego_id": {
+    "$oid": "663f02049de06089f1989562"
+  },
+  "equipoGandor_id": {
+    "$oid": "663efd509de06089f1989559"
+  },
+  "puntos": 3
+},
+{
+  "_id": {
+    "$oid": "663fd88064c6d330ebfc0cae"
+  },
+  "juego_id": {
+    "$oid": "663fd4ff64c6d330ebfc0c9f"
+  },
+  "equipoGandor_id": {
+    "$oid": "663fd0d664c6d330ebfc0c98"
+  },
+  "puntos": 3
+},
+{
+  "_id": {
+    "$oid": "663fd8ac64c6d330ebfc0cb0"
+  },
+  "juego_id": {
+    "$oid": "663fd55264c6d330ebfc0ca1"
+  },
+  "equipoGandor_id": {
+    "$oid": "663efd509de06089f1989559"
+  },
+  "puntos": 3
+},
+{
+  "_id": {
+    "$oid": "663fd8e164c6d330ebfc0cb2"
+  },
+  "juego_id": {
+    "$oid": "663fd5ac64c6d330ebfc0ca3"
+  },
+  "equipoGandor_id": {
+    "$oid": "663fd0fa64c6d330ebfc0c9a"
+  },
+  "puntos": 3
+},
+{
+  "_id": {
+    "$oid": "663fd90b64c6d330ebfc0cb4"
+  },
+  "juego_id": {
+    "$oid": "663fd60364c6d330ebfc0ca5"
+  },
+  "equipoGandor_id": {
+    "$oid": "663efd509de06089f1989559"
+  },
+  "puntos": 3
+},
+{
+  "_id": {
+    "$oid": "663fd93a64c6d330ebfc0cb6"
+  },
+  "juego_id": {
+    "$oid": "663fd71264c6d330ebfc0ca9"
+  },
+  "equipoGandor_id": {
+    "$oid": "663fd0d664c6d330ebfc0c98"
+  },
+  "puntos": 3
+},
+{
+  "_id": {
+    "$oid": "663fe8b86822f581e846b799"
+  },
+  "juego_id": {
+    "$oid": "663efd6b9de06089f198955b"
+  },
+  "equipoGandor_id": {
+    "$oid": "663efd6b9de06089f198955b"
+  },
+  "puntos": 3
+}]

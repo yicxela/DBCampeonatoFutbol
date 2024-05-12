@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "663f02049de06089f1989562"
+  },
+  "equipoLocal_id": {
+    "$oid": "663efd509de06089f1989559"
+  },
+  "equipoVisitante_id": {
+    "$oid": "663efd6b9de06089f198955b"
+  },
+  "arbitro": "Jesus Aguilar",
+  "equipoGanador_id": {
+    "$oid": "663efd509de06089f1989559"
+  },
+  "golesEquipoLocal": 4,
+  "golesEquipoVisitante": 2
+},
+{
+  "_id": {
+    "$oid": "663fd4ff64c6d330ebfc0c9f"
+  },
+  "equipoLocal_id": {
+    "$oid": "663fd0d664c6d330ebfc0c98"
+  },
+  "equipoVisitante_id": {
+    "$oid": "663fd0fa64c6d330ebfc0c9a"
+  },
+  "arbitro": "Jesus Aguilar",
+  "equipoGanador_id": {
+    "$oid": "663fd0d664c6d330ebfc0c98"
+  },
+  "golesEquipoLocal": 2,
+  "golesEquipoVisitante": 0
+},
+{
+  "_id": {
+    "$oid": "663fd55264c6d330ebfc0ca1"
+  },
+  "equipoLocal_id": {
+    "$oid": "663efd509de06089f1989559"
+  },
+  "equipoVisitante_id": {
+    "$oid": "663fd0d664c6d330ebfc0c98"
+  },
+  "arbitro": "Jesus Aguilar",
+  "equipoGanador_id": {
+    "$oid": "663efd509de06089f1989559"
+  },
+  "golesEquipoLocal": 1,
+  "golesEquipoVisitante": 0
+},
+{
+  "_id": {
+    "$oid": "663fd5ac64c6d330ebfc0ca3"
+  },
+  "equipoLocal_id": {
+    "$oid": "663efd6b9de06089f198955b"
+  },
+  "equipoVisitante_id": {
+    "$oid": "663fd0fa64c6d330ebfc0c9a"
+  },
+  "arbitro": "Jesus Aguilar",
+  "equipoGanador_id": {
+    "$oid": "663fd0fa64c6d330ebfc0c9a"
+  },
+  "golesEquipoLocal": 2,
+  "golesEquipoVisitante": 3
+},
+{
+  "_id": {
+    "$oid": "663fd60364c6d330ebfc0ca5"
+  },
+  "equipoLocal_id": {
+    "$oid": "663fd0fa64c6d330ebfc0c9a"
+  },
+  "equipoVisitante_id": {
+    "$oid": "663efd509de06089f1989559"
+  },
+  "arbitro": "Jesus Aguilar",
+  "equipoGanador_id": {
+    "$oid": "663efd509de06089f1989559"
+  },
+  "golesEquipoLocal": 1,
+  "golesEquipoVisitante": 2
+},
+{
+  "_id": {
+    "$oid": "663fd71264c6d330ebfc0ca9"
+  },
+  "equipoLocal_id": {
+    "$oid": "663efd6b9de06089f198955b"
+  },
+  "equipoVisitante_id": {
+    "$oid": "663fd0d664c6d330ebfc0c98"
+  },
+  "arbitro": "Jesus Aguilar",
+  "equipoGanador_id": {
+    "$oid": "663fd0d664c6d330ebfc0c98"
+  },
+  "golesEquipoLocal": 2,
+  "golesEquipoVisitante": 3
+}]
