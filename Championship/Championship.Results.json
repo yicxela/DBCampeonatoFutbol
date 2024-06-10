@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "6652ccf2d9220a368d5159f1"
+  },
+  "game_id": "6652c92fd9220a368d5159e3",
+  "result_type": "won",
+  "winner_team_id": "6652c6bed9220a368d5159da",
+  "loser_team_id": "6652c6bed9220a368d5159db",
+  "winner_team_points": 3,
+  "loser_team_points": 0
+},
+{
+  "_id": {
+    "$oid": "6652ccf2d9220a368d5159f2"
+  },
+  "game_id": "6652c92fd9220a368d5159e4",
+  "result_type": "drawn",
+  "team1_id": "6652c6bed9220a368d5159da",
+  "team2_id": "6652c6bed9220a368d5159dc",
+  "team1_points": 1,
+  "team2_points": 1
+},
+{
+  "_id": {
+    "$oid": "6652ccf2d9220a368d5159f3"
+  },
+  "game_id": "6652c92fd9220a368d5159e5",
+  "result_type": "won",
+  "winner_team_id": "6652c6bed9220a368d5159da",
+  "loser_team_id": "6652c6bed9220a368d5159dd",
+  "winner_team_points": 3,
+  "loser_team_points": 0
+},
+{
+  "_id": {
+    "$oid": "6652ccf2d9220a368d5159f4"
+  },
+  "game_id": "6652c92fd9220a368d5159e6",
+  "result_type": "drawn",
+  "team1_id": "6652c6bed9220a368d5159db",
+  "team2_id": "6652c6bed9220a368d5159dc",
+  "team1_points": 1,
+  "team2_points": 1
+},
+{
+  "_id": {
+    "$oid": "6652ccf2d9220a368d5159f5"
+  },
+  "game_id": "6652c92fd9220a368d5159e7",
+  "result_type": "won",
+  "winner_team_id": "6652c6bed9220a368d5159dd",
+  "loser_team_id": "6652c6bed9220a368d5159db",
+  "winner_team_points": 3,
+  "loser_team_points": 0
+},
+{
+  "_id": {
+    "$oid": "6652ccf2d9220a368d5159f6"
+  },
+  "game_id": "6652c92fd9220a368d5159e8",
+  "result_type": "cancelled"
+}]

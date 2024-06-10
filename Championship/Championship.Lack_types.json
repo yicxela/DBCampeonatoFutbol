@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6652c000d9220a368d515995"
+  },
+  "description": "Dangerous Play",
+  "card_color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "6652c000d9220a368d515996"
+  },
+  "description": "Reckless Tackle",
+  "card_color": "Yellow or Red"
+},
+{
+  "_id": {
+    "$oid": "6652c000d9220a368d515997"
+  },
+  "description": "Unsporting Behavior",
+  "card_color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "6652c000d9220a368d515998"
+  },
+  "description": "Offensive Language",
+  "card_color": "Red"
+},
+{
+  "_id": {
+    "$oid": "6652c000d9220a368d515999"
+  },
+  "description": "Technical Foul",
+  "card_color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "6652c000d9220a368d51599a"
+  },
+  "description": "Violent Conduct",
+  "card_color": "Red"
+},
+{
+  "_id": {
+    "$oid": "6652c000d9220a368d51599b"
+  },
+  "description": "Tactical Foul",
+  "card_color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "6652c000d9220a368d51599c"
+  },
+  "description": "Serious Foul Play",
+  "card_color": "Red"
+},
+{
+  "_id": {
+    "$oid": "6652c000d9220a368d51599d"
+  },
+  "description": "Deliberate Handball",
+  "card_color": "Yellow or Red"
+},
+{
+  "_id": {
+    "$oid": "6652c000d9220a368d51599e"
+  },
+  "description": "Persistent Infringement",
+  "card_color": "Yellow"
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6652bec0d9220a368d51598c"
+  },
+  "name": "Demetre MacRory",
+  "nacionality": "Germany",
+  "last_name": "MacRory",
+  "document": "771-63-7539"
+},
+{
+  "_id": {
+    "$oid": "6652bec0d9220a368d51598d"
+  },
+  "name": "Elvira Schruur",
+  "nacionality": "Morocco",
+  "last_name": "Schruur",
+  "document": "187-86-4720"
+},
+{
+  "_id": {
+    "$oid": "6652bec0d9220a368d51598e"
+  },
+  "name": "Orin Gainsborough",
+  "nacionality": "Zambia",
+  "last_name": "Gainsborough",
+  "document": "186-71-8786"
+},
+{
+  "_id": {
+    "$oid": "6652bec0d9220a368d51598f"
+  },
+  "name": "Ewen Dorr",
+  "nacionality": "Venezuela",
+  "last_name": "Dorr",
+  "document": "227-66-1644"
+},
+{
+  "_id": {
+    "$oid": "6652bec0d9220a368d515990"
+  },
+  "name": "Kylen Negro",
+  "nacionality": "Slovenia",
+  "last_name": "Negro",
+  "document": "521-47-6355"
+}]

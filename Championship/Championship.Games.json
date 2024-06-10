@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6652c92fd9220a368d5159e3"
+  },
+  "home_team_id": "6652c6bed9220a368d5159da",
+  "away_team_id": "6652c6bed9220a368d5159db",
+  "date": "2024-06-01",
+  "stadium": "Thunder Dome",
+  "referees_id": "6652bea3d9220a368d515985"
+},
+{
+  "_id": {
+    "$oid": "6652c92fd9220a368d5159e4"
+  },
+  "home_team_id": "6652c6bed9220a368d5159da",
+  "away_team_id": "6652c6bed9220a368d5159dc",
+  "date": "2024-06-08",
+  "stadium": "Thunder Dome",
+  "referees_id": "6652bea3d9220a368d515986"
+},
+{
+  "_id": {
+    "$oid": "6652c92fd9220a368d5159e5"
+  },
+  "home_team_id": "6652c6bed9220a368d5159da",
+  "away_team_id": "6652c6bed9220a368d5159dd",
+  "date": "2024-06-15",
+  "stadium": "Thunder Dome",
+  "referees_id": "6652bea3d9220a368d515987"
+},
+{
+  "_id": {
+    "$oid": "6652c92fd9220a368d5159e6"
+  },
+  "home_team_id": "6652c6bed9220a368d5159db",
+  "away_team_id": "6652c6bed9220a368d5159dc",
+  "date": "2024-06-22",
+  "stadium": "Titan Arena",
+  "referees_id": "6652bea3d9220a368d515988"
+},
+{
+  "_id": {
+    "$oid": "6652c92fd9220a368d5159e7"
+  },
+  "home_team_id": "6652c6bed9220a368d5159db",
+  "away_team_id": "6652c6bed9220a368d5159dd",
+  "date": "2024-06-29",
+  "stadium": "Titan Arena",
+  "referees_id": "6652bea3d9220a368d515989"
+},
+{
+  "_id": {
+    "$oid": "6652c92fd9220a368d5159e8"
+  },
+  "home_team_id": "6652c6bed9220a368d5159dc",
+  "away_team_id": "6652c6bed9220a368d5159dd",
+  "date": "2024-07-06",
+  "stadium": "Panther Stadium",
+  "referees_id": "6652bea3d9220a368d515989"
+}]

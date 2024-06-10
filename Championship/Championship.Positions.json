@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6652cd5bd9220a368d5159f9"
+  },
+  "team_id": "6652c6bed9220a368d5159da",
+  "points": 7,
+  "position": 1
+},
+{
+  "_id": {
+    "$oid": "6652cd5bd9220a368d5159fa"
+  },
+  "team_id": "6652c6bed9220a368d5159dd",
+  "points": 4,
+  "position": 2
+},
+{
+  "_id": {
+    "$oid": "6652cd5bd9220a368d5159fb"
+  },
+  "team_id": "6652c6bed9220a368d5159db",
+  "points": 2,
+  "position": 3
+},
+{
+  "_id": {
+    "$oid": "6652cd5bd9220a368d5159fc"
+  },
+  "team_id": "6652c6bed9220a368d5159dc",
+  "points": 1,
+  "position": 4
+}]
